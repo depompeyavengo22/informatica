@@ -8,5 +8,15 @@ h2{
 /*selector de clase*/
 .oscuro{
     background-color: blueviolet;
-    color: aliceblue;
+    color: aliceblue ;
+}
+
+    /* selector ID */
+    #biografia{
+        background-color: black;
+        color: bisque;
+}
+#Frases{
+    background-color: rgb(48, 46, 46);
+    color: bisque;
 }
